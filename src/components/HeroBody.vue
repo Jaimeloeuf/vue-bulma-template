@@ -14,9 +14,3 @@ export default {
   name: "HeroBody",
 };
 </script>
-
-<style scoped>
-.is-extra-dark {
-  color: pink;
-}
-</style>

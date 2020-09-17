@@ -2,6 +2,7 @@
 Template repository for scaffolding simple frontend sites with Vue and Bulma
 
 ## Project setup
+### Installing Dependencies
 ```
 npm install
 ```
@@ -21,8 +22,13 @@ npm run build
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Adding pre-rendering build process
+- Install the pre render plugin into dev dependencies
+    ```
+    npm install -D prerender-spa-plugin
+    ```
+- Uncomment the prerendering build process code in vue.config.js
+- Uncomment the event dispatching code in main.js
 
 ## License, Author and Contributing
 This project is developed and made available under the "MIT License"  
