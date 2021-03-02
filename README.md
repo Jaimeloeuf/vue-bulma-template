@@ -6,6 +6,8 @@ Template repository for scaffolding simple frontend sites with Vue and Bulma
 ```
 npm install
 ```
+Note that there might be some dependency issues, due to @vue/cli-plugin-eslint package's v4.5.11 peer dependency specifying use of eslint < v7.0.0 and other related issues.  
+These issues should be fixed once the vue clie hits v5.0.0 release, but for now, use ```npm install --legacy-peer-deps``` or ```npm install --force``` to get around it
 
 ### Compiles and hot-reloads for development
 ```
