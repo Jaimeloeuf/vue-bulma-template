@@ -13,9 +13,9 @@
 
       <!-- @todo Empty hero body to force footer to the bottom of the hero page -->
       <div class="hero-body" />
-
-      <Footer />
     </section>
+
+    <Footer />
   </div>
 </template>
 

@@ -4,12 +4,9 @@
     <nav class="tabs is-boxed is-fullwidth">
       <div class="container">
         <ul>
-          <li class="is-active"><a>Overview</a></li>
-          <li><a>Modifiers</a></li>
-          <li><a>Grid</a></li>
-          <li><a>Elements</a></li>
-          <li><a>Components</a></li>
-          <li><a>Layout</a></li>
+          <li class="is-active"><a>Footer Item 1</a></li>
+          <li><a>Footer Item 2</a></li>
+          <li><a>Footer Item 3</a></li>
         </ul>
       </div>
     </nav>
