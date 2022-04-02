@@ -1,3 +1,6 @@
+# DEPRECATED
+See <https://github.com/Enkel-Digital/vue-bulma-template> instead. The new template uses vue3 and bulma instead of vue2.
+
 # vue-bulma-template
 Template repository for scaffolding simple frontend sites with Vue and Bulma
 
